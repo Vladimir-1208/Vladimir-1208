@@ -1,0 +1,17 @@
+<!DOCTYPE HTML>
+<html>
+   <head>
+      <title>Моя веб-сторінка</title>
+<link rel="stylesheet" href="styles.css">
+   </head>
+   <body>  
+      Анкета
+<h1>Прізвище,Ім'я, По-батькові<h1>
+<p>Іщенко Володимир Олександрович<p>
+<h2>Дата народження<h2>
+<p>12 серпня 1964<p>
+<h3>Освіта<h3>
+<p>Вища<p>
+<img src="https://lh3.googleusercontent.com/a/AAcHTtfIAGsdFCTwEwSrsAQP6nmdoDEP6PytqY1e1s3L=s192-c-rg-br100">
+</body>
+</html>
