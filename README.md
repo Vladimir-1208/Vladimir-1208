@@ -1,4 +1,5 @@
-# Vladimir-1208
+# git config --global user.name Vladimir-1208
+git config --global user.email "iva.doi1964@gmail.com"
 echo "# Vladimir-1208" >> README.md
 git init
 git add README.md
